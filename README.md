@@ -14,7 +14,7 @@ FutbolPi is more than just a game—it's a community of football fanatics who pr
 2. **Guilds Galore:**
    - Choose your guild:
      - **Badge Brigades**: Default guilds created at genesis, where randomness meets camaraderie.
-     - **Premium League Guilds**: Exclusive clubs for those who pay 50 Pi tokens. Invitations, self-release, or referrals—take your pick!
+     - **Premium League Guilds**: Exclusive clubs created with 50 Pi tokens. Invitations, self-release, or referrals—take your pick!
 
 3. **Referral Points and Links:**
    - Score referral points when new players join using your link. Assist your way to the top!
